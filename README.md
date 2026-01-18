@@ -53,22 +53,7 @@ Alguns repositórios que representam bem o tipo de trabalho que gosto de fazer:
 
 ---
 
-## 📊 GitHub Stats
 
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=victordionizio&show_icons=true&theme=dracula"
-    alt="Estatísticas do GitHub"
-    height="160"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=victordionizio&layout=compact&theme=dracula"
-    alt="Linguagens mais usadas"
-    height="160"
-  />
-</p>
-
----
 
 ## 📫 Onde me encontrar
 
